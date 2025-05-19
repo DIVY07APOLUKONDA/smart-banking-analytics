@@ -1,9 +1,7 @@
 
 # 📊 Power BI Banking Dashboard: Customer, Credit & Branch Analytics
 
-<p align="center">
-  <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Banner.jpg" alt="Banking Banner">
-</p>
+
 
 ## 🔍 Overview
 
